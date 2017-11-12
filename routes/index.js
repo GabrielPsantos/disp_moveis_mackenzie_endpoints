@@ -11,4 +11,6 @@ router.get('/api/buracos',buracoController.listagem);
 
 router.post('/api/buracos',buracoController.cadastro);
 
+router.get('/api/buracos/:id_buraco',buracoController.find_id);
+
 module.exports = router;
