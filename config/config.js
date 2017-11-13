@@ -5,3 +5,11 @@ module.exports = {
 	database : 'dispositivos_moveis',
 	port : 3306
 };
+
+// module.exports = {
+// 	host     : 'localhost',
+// 	user     : 'root',
+// 	password : '',
+// 	database : 'dispositivos_moveis',
+// 	port : 3306
+// };
